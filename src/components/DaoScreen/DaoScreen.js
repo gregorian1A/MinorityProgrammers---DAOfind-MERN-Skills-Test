@@ -176,7 +176,6 @@ className="searchbarr"
 <button onClick={() => setCategory("Protocol")}>Protocol</button>
 <button onClick={() => setCategory("Grant")}>Grant</button>
 </div>
-<div className="dropdown">
 <ul class="menu cf">
   <li>
     <a href="">
@@ -195,7 +194,7 @@ className="searchbarr"
     </ul>
   </li>
 </ul>
-</div>
+
 </div>
 
 <table className="daotable" style={tableStyle.table}>

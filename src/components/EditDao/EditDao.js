@@ -125,7 +125,7 @@ const EditDao = () => {
             /></label>
             <button type="submit" onClick={handleSubmit} className="edit-btn">Edit</button>
         </form>
-        <pre>{JSON.stringify(data, null, 4)}</pre>
+        {/* <pre>{JSON.stringify(data, null, 4)}</pre> */}
         </div>
         ))}
         </div>

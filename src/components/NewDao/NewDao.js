@@ -119,7 +119,7 @@ const NewDao = () => {
 
             <button className='edit-btn' onClick={handleSubmit}>Submit</button>
         </form>
-        <pre>{JSON.stringify(data, null, 4)}</pre>
+        {/* <pre>{JSON.stringify(data, null, 4)}</pre> */}
         </div>
     )
 }
