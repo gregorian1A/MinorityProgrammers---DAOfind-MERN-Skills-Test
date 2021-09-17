@@ -1,0 +1,42 @@
+.daopage {
+    margin-top: 80px;
+    margin-left: 225px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.left {
+    border: 1px solid #832345;
+    padding: 15px;
+}
+.left-flex {
+    display: flex;
+    align-items: center;
+    margin-bottom: 56px;
+}
+.left img {
+    width: 100px;
+    border: 1px solid grey;
+}
+
+.right {
+    border: 1px solid #832345;
+    padding: 15px;
+}
+
+.daoname {
+    font-size: 50px;
+    font-weight: 700;
+    color: #12263a;
+    margin: 16px 5px;
+}
+
+.daopage span {
+    font-size: 19px;
+    color: #832345;
+    margin-right: 20px;
+}

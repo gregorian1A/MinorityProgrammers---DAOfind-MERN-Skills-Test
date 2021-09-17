@@ -1,24 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { DataProvider } from './context';
+import Sidebar from './components/Sidebar/Sidebar';
+import DaoScreen from './components/DaoScreen/DaoScreen';
+import NewDao from './components/NewDao/NewDao';
+import DaoPage from './components/DaoPage/DaoPage';
+import EditDao from './components/EditDao/EditDao';
+import Learn from './components/Learn/Learn';
 
 function App() {
+
   return (
+    <DataProvider>
+      <Router>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Sidebar />
+      <Route path="/" exact component={DaoScreen} />
+      <Route path="/new" exact component={NewDao} />
+      <Route path="/:id" exact component={DaoPage} />
+      <Route path="/:id/edit" exact component={EditDao} />
+      <Route path="/learn" exact component={Learn} />
     </div>
+    </Router>
+    </DataProvider>
   );
 }
 

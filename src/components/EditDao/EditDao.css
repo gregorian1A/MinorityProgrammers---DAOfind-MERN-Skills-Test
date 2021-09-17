@@ -1,0 +1,13 @@
+
+.edit-btn {
+    width: 50%;
+    display: block;
+    margin: 10px auto;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    background: #555;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+    letter-spacing: 2px;
+}

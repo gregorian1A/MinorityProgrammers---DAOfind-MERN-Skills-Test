@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    background: black;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+
+.navbar img {
+    width: 150px;
+    padding-left: 15px;
+}
+
+.connect-wallet {
+   border-radius: 10px;
+   border: 1px solid black;
+    margin-right: 15px;
+    height: 40px;
+    padding: 3px 12px;
+    font-size: 17px;
+    background: #832345;
+    color: white;
+    font-weight: 600;
+}

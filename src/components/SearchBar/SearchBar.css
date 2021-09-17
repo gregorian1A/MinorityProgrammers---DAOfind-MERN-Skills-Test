@@ -1,0 +1,13 @@
+.searchbar {
+    margin: 0;
+ }
+ 
+ .searchbar input {
+     width: 600px;
+     padding: 10px 5px;
+     font-size: 17px;
+     outline: none;
+     margin: 10px 0;
+ }
+ 
+ 
