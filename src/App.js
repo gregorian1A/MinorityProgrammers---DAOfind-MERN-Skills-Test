@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import { DataProvider } from './context';
 import Sidebar from './components/Sidebar/Sidebar';
 import DaoScreen from './components/DaoScreen/DaoScreen';
