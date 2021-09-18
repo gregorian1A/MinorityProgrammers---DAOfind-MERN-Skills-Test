@@ -24,7 +24,7 @@ const DaoPage = () => {
       <input 
             type="text"
             placeholder='Search DAO'
-            value={null}
+            value=''
             className="searchbarr" />
       <Link to={`/${item.id}/edit`}>
       <button style={{padding: "10px 20px", cursor: 'pointer'}} className='connect-wallett'>Edit DAO</button></Link>
