@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/css/main.282f66ce.chunk.css",
-    "main.js": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/main.e002e594.chunk.js",
-    "main.js.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/main.e002e594.chunk.js.map",
+    "main.css": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/css/main.b5c9c9a7.chunk.css",
+    "main.js": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/main.53c31b77.chunk.js",
+    "main.js.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/main.53c31b77.chunk.js.map",
     "runtime-main.js": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/runtime-main.9e0492b9.js",
     "runtime-main.js.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/runtime-main.9e0492b9.js.map",
-    "static/js/2.ba830f12.chunk.js": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/2.ba830f12.chunk.js",
-    "static/js/2.ba830f12.chunk.js.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/2.ba830f12.chunk.js.map",
+    "static/js/2.e5cc27a5.chunk.js": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/2.e5cc27a5.chunk.js",
+    "static/js/2.e5cc27a5.chunk.js.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/2.e5cc27a5.chunk.js.map",
     "static/js/3.adf6bf40.chunk.js": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/3.adf6bf40.chunk.js",
     "static/js/3.adf6bf40.chunk.js.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/3.adf6bf40.chunk.js.map",
     "index.html": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/index.html",
-    "static/css/main.282f66ce.chunk.css.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/css/main.282f66ce.chunk.css.map",
-    "static/js/2.ba830f12.chunk.js.LICENSE.txt": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/2.ba830f12.chunk.js.LICENSE.txt"
+    "static/css/main.b5c9c9a7.chunk.css.map": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/css/main.b5c9c9a7.chunk.css.map",
+    "static/js/2.e5cc27a5.chunk.js.LICENSE.txt": "/MinorityProgrammers---DAOfind-MERN-Skills-Test/static/js/2.e5cc27a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9e0492b9.js",
-    "static/js/2.ba830f12.chunk.js",
-    "static/css/main.282f66ce.chunk.css",
-    "static/js/main.e002e594.chunk.js"
+    "static/js/2.e5cc27a5.chunk.js",
+    "static/css/main.b5c9c9a7.chunk.css",
+    "static/js/main.53c31b77.chunk.js"
   ]
 }
